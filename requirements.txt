@@ -1,0 +1,9 @@
+streamlit
+streamlit-webrtc
+streamlit-autorefresh
+numpy
+librosa
+soundfile
+joblib
+scikit-learn
+av
